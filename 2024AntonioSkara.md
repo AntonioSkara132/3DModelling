@@ -3,7 +3,7 @@
 # Modeliranje 
 Tenisice sam dizajnirao prema modelu Vans tenisica “Old-skool”. A referencu sam koristio sljedeće slike. 
 
-![](Aspose.Words.a89927be-087b-44e2-ac4e-b0359c16a34b.001.jpeg) ![](Aspose.Words.a89927be-087b-44e2-ac4e-b0359c16a34b.002.jpeg) ![](Aspose.Words.a89927be-087b-44e2-ac4e-b0359c16a34b.003.jpeg)
+![](images/vans_side.png) ![](images/Aspose.Words.vans_down.png) ![](vans_upper.png)
 
 *Slika 1. Vans Old Skool, referentne slike* 
 
@@ -13,13 +13,13 @@ Tenisice se sastoji od tri dijela: Tijela, Potplate i Vezica. A zadnja dva su sp
 # Teksturiranje 
 Za teksturiranje je korištena tekstura tekstila skinuta skinuta sa interneta. A bijela linija je postavljena Uv map metodom. 
 
-![](Aspose.Words.a89927be-087b-44e2-ac4e-b0359c16a34b.004.jpeg)
+![](images/screen1.png)
 
 *Slika 2. Čvorovi korišteni za teksturiranje bijele linije* 
 # Fizika 
 Dinamika vezica je simulirana kao Cloth modifierom. Pri tome je je povećan parametar pressure i bending kako bi vezice bolje odgovarale stvarnima. Tijelo i potplate su modelirane kao Collision. 
 
-![](Aspose.Words.a89927be-087b-44e2-ac4e-b0359c16a34b.005.jpeg)
+![](images/screen2.png)
 
 *Siika 3. Tenisice s vezicama u blenderu* 
 # Animacija 
